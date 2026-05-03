@@ -21,6 +21,10 @@ Contact: zysun1@stu.ecnu.edu.cn
 
 ## Publication
 
-111
+* Reverse-Engineering Model Editing on Language Models \
+__Zhiyu Sun__, Minrui Luo, Yu Wang, Zhili Chen, Tianxing He\
+in ICML 2026
+
+
 
 
