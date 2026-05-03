@@ -2,7 +2,7 @@
 title: ""
 collection: talks
 type: "Representative works"
-permalink: /talks/reverse-editing1
+permalink: /representative_works/reverse-editing1
 excerpt_separator: "<!--more-->"
 ---
 * **Zhiyu Sun**, Minrui Luo, Yu Wang, Zhili Chen, Tianxing He. \
