@@ -12,7 +12,7 @@ I am pursuing my Ph.D. at East China Normal University and concurrently engaged 
 
 Contact: zysun1@stu.ecnu.edu.cn
 
-<h2 style="margin-top: -0px;">Research Interests</h2>
+<h3 style="margin-top: -0px;">Research Interests</h3>
 
 * Visual Language Model
 * Model Editing
