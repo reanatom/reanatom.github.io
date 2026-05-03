@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: representative_works
-type: "Representative works"
+type: "representative works"
 permalink: /representative_works/reverse-editing1
 excerpt_separator: "<!--more-->"
 ---
