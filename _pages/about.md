@@ -25,10 +25,10 @@ Contact: zysun1@stu.ecnu.edu.cn
 __Zhiyu Sun__, Minrui Luo, Yu Wang, Zhili Chen, Tianxing He\
 in ICML 2026
 * Differentially Private Federated Learning: A Systematic Review.\
-Jie Fu, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, Zhiyu Sun, Wendy Hui Wang, Zhili Chen, Yang Cao\
+Jie Fu, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, __Zhiyu Sun__, Wendy Hui Wang, Zhili Chen, Yang Cao\
 ACM Computing Surveys
 * Single-cell Curriculum Learning-based Deep Graph Embedding Clustering.\
-Huifa Li, Jie Fu, Xinpeng Ling, Zhiyu Sun, Kuncan Wang, Zhili Chen.\
+Huifa Li, Jie Fu, Xinpeng Ling, __Zhiyu Sun__, Kuncan Wang, Zhili Chen.\
 in BIBM 2024
 
 
