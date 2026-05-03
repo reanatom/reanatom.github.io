@@ -1,6 +1,6 @@
 ---
 title: ""
-collection: talks
+collection: representative_works
 type: "Representative works"
 permalink: /representative_works/reverse-editing1
 excerpt_separator: "<!--more-->"
