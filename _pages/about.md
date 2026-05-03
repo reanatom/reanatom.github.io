@@ -1,15 +1,13 @@
-
+---
 permalink: /
 title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
-
-<style>
-  .page__header { display: none !important; }
-</style>
+<h2 style="margin-top: -50px;">About me</h2>
 
 About me
 ------
