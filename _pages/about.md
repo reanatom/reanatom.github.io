@@ -9,7 +9,7 @@ redirect_from:
 
 <h2 style="margin-top: -30px;">About me</h2>
 
-I am pursuing my Ph.D. at East China Normal University and concurrently engaged in a joint-training program at the Shanghai Qi Zhi Institute. I am co-advised by [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp) and [Prof. Tianxing He](https://cloudygoose.github.io/). Prior to starting my Ph.D., I also conducted my Master's studies at ECNU.
+I am pursuing my Ph.D. at East China Normal University and concurrently engaged in a joint-training program at the Shanghai Qi Zhi Institute. I am co-advised by [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp) and [Prof. Tianxing He](https://cloudygoose.github.io/). Prior to this, I began my graduate studies at ECNU and was fast-tracked into the Ph.D. program.
 
 Contact: zysun1@stu.ecnu.edu.cn
 
@@ -19,7 +19,7 @@ Contact: zysun1@stu.ecnu.edu.cn
 * LLM interpretability
 * Trustworthy Machine Learning
 
-## Publication
+## Publications
 
 * Reverse-Engineering Model Editing on Language Models \
 __Zhiyu Sun__, Minrui Luo, Yu Wang, Zhili Chen, Tianxing He\
