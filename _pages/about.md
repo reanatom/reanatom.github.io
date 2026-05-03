@@ -19,8 +19,7 @@ Contact: zysun1@stu.ecnu.edu.cn
 * LLM interpretability
 * Trustworthy Machine Learning
 
-## Publications
-
+<h2 id="publications">Publications</h2>
 * Reverse-Engineering Model Editing on Language Models \
 __Zhiyu Sun__, Minrui Luo, Yu Wang, Zhili Chen, Tianxing He\
 in ICML 2026
@@ -31,7 +30,7 @@ in ACM Computing Surveys
 Huifa Li, Jie Fu, Xinpeng Ling, __Zhiyu Sun__, Kuncan Wang, Zhili Chen.\
 in BIBM 2024
 
-## Education
+<h2 id="education">Education</h2>
 * 2023.09 - Now, Ph.D., East China Normal University, Shanghai, China.
 * 2019.09 - 2023.06, Undergraduate, Anhui University, Hefei, China.
 
