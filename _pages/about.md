@@ -26,7 +26,7 @@ __Zhiyu Sun__, Minrui Luo, Yu Wang, Zhili Chen, Tianxing He\
 in ICML 2026
 * Differentially Private Federated Learning: A Systematic Review.\
 Jie Fu, Yuan Hong, Xinpeng Ling, Leixia Wang, Xun Ran, __Zhiyu Sun__, Wendy Hui Wang, Zhili&nbsp;Chen, Yang Cao\
-ACM Computing Surveys
+in ACM Computing Surveys
 * Single-cell Curriculum Learning-based Deep Graph Embedding Clustering.\
 Huifa Li, Jie Fu, Xinpeng Ling, __Zhiyu Sun__, Kuncan Wang, Zhili Chen.\
 in BIBM 2024
