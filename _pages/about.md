@@ -1,11 +1,11 @@
----
+
 permalink: /
 title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+
 
 <style>
   .page__header { display: none !important; }
