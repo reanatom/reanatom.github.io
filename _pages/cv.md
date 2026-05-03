@@ -47,9 +47,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+representative_works
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.representative_works reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
