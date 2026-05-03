@@ -16,5 +16,6 @@ Contact: zysun1@stu.ecnu.edu.cn
 * Visual Language Model
 * Model Editing
 * LLM interpretability
+* Security and Privacy of LLMs
 
 
