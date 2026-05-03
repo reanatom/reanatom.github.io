@@ -15,7 +15,7 @@ from geopy.exc import GeocoderTimedOut
 TIMEOUT = 5
 
 # Collect the Markdown files
-g = glob.glob("_talks/*.md")
+g = glob.glob("_representative_works/*.md")
 
 # Prepare to geolocate
 geocoder = Nominatim(user_agent="academicpages.github.io")
