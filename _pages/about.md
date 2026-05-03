@@ -31,6 +31,9 @@ in ACM Computing Surveys
 Huifa Li, Jie Fu, Xinpeng Ling, __Zhiyu Sun__, Kuncan Wang, Zhili Chen.\
 in BIBM 2024
 
+## Education
+* 2023.09 - Now, Ph.D., East China Normal University, Shanghai, China.
+* 2019.09 - 2023.06, Undergraduate, Anhui University, Hefei, China.
 
 
 
