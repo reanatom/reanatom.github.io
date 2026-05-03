@@ -87,7 +87,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -230,7 +230,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  representative_works:
     output: true
     permalink: /:collection/:path/
 
@@ -285,7 +285,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: representative_works
     values:
       layout: talk
       author_profile: true
