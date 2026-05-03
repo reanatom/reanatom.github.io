@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h2 id="about" style="margin-top: -30px;">About Me</h2>
+<h2 id="about" style="margin-top: -27px;">About Me</h2>
 
 I am pursuing my Ph.D. at East China Normal University and concurrently engaged in a joint-training program at the Shanghai Qi Zhi Institute. I am co-advised by [Prof. Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp) and [Prof. Tianxing He](https://cloudygoose.github.io/). Prior to this, I began my Master's studies at ECNU and was fast-tracked into the Ph.D. program in 2025.
 
